@@ -69,6 +69,3 @@ I'm a Backend Developer specializing in Go, with a passion for creating robust A
 - LinkedIn: [Konstantin Gamov](https://www.linkedin.com/in/konstantin-gamov-40bb57348/)
 - Email: m@8246.ru
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1ssk&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
