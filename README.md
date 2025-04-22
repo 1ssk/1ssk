@@ -60,14 +60,6 @@ I'm a Backend Developer specializing in Go, with a passion for creating robust A
   _Tech: Go, gRPC, Kubernetes_
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1ssk&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ssk&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
-
 ### 📬 Get in Touch
 - Telegram: [m82469](https://t.me/m82469)
 - LinkedIn: [Konstantin Gamov](https://www.linkedin.com/in/konstantin-gamov-40bb57348/)
