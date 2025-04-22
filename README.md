@@ -51,7 +51,7 @@ I'm a Backend Developer specializing in Go, with a passion for creating robust A
 </div>
 
 ### 🚀 Featured Projects
-- **[Onboarding-system](https://github.com/1ssk/project)**  
+- **[Onboarding-system](https://github.com/1ssk/onbording-system-backend)**  
   A high-performance REST API for streamlining user onboarding processes. Focused on scalability and clean code to handle high volumes of requests efficiently.  
   _Tech: Go, PostgreSQL, Docker_
 
