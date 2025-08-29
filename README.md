@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://t.me/m82469" target="_blank">
+  <a href="https://t.me/m93347" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/konstantin-gamov-40bb57348/" target="_blank">
