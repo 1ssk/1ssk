@@ -61,7 +61,7 @@ I'm a Backend Developer specializing in Go, with a passion for creating robust A
 ---
 
 ### 📬 Get in Touch
-- Telegram: [m82469](https://t.me/m82469)
+- Telegram: [Konstantin](https://t.me/m93347)
 - LinkedIn: [Konstantin Gamov](https://www.linkedin.com/in/konstantin-gamov-40bb57348/)
 - Email: m@8246.ru
 
